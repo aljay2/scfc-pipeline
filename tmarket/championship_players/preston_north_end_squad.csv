@@ -1,0 +1,42 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+1,Freddie Woodman,Goalkeeper,04/03/1997 (28),England,Liverpool FC,"1,88m",right,01/07/2022,Newcastle United,€3.50m
+13,David Cornell,Goalkeeper,28/03/1991 (34),Wales,Preston North End,"1,86m",right,01/07/2022,Peterborough United,€100k
+21,James Pradic,Goalkeeper,07/02/2005 (20),Wales,Preston North End Reserves,"1,85m",right,21/07/2022,Preston North End U19,-
+-,Li-Bau Stowell,Goalkeeper,01/04/2008 (17),England,Preston North End U19,-,,,,-
+14,Jordan Storey,Centre-Back,02/09/1997 (27),England,Preston North End,"1,88m",right,01/07/2018,Exeter City,€3.80m
+-,Ryan Porteous,Centre-Back,25/03/1999 (26),Scotland,Los Angeles FC,"1,88m",right,03/02/2025,Watford FC,€3.00m
+19,Lewis Gibson,Centre-Back,19/07/2000 (24),England,Preston North End,"1,85m",left,03/01/2025,Plymouth Argyle,€2.00m
+6,Liam Lindsay,Centre-Back,12/10/1995 (29),Scotland,Preston North End,"1,91m",right,01/07/2021,Stoke City,€1.80m
+5,Jack Whatmough,Centre-Back,19/08/1996 (28),England,Huddersfield Town,"1,84m",right,02/08/2023,Wigan Athletic,€1.20m
+16,Andrew Hughes,Centre-Back,05/06/1992 (33),Wales,Preston North End,"1,88m",left,01/07/2018,Peterborough United,€400k
+26,Patrick Bauer,Centre-Back,28/10/1992 (32),Germany,AFC Wimbledon,"1,92m",right,01/07/2019,Charlton Athletic,€200k
+-,Cole McGhee,Centre-Back,28/01/2006 (19),England,Sheffield Wednesday U21,-,left,,,-
+3,Jayden Meghoma,Left-Back,28/06/2006 (19),England Nigeria,Rangers FC,"1,76m",left,16/01/2025,Brentford FC,€500k
+-,Kian Best,Left-Back,27/08/2005 (19),England,Chelsea FC U21,"1,81m",left,01/07/2023,Preston North End U19,€350k
+-,Troy Tarry,Left-Back,12/01/2007 (18),England,Preston North End U19,-,,,,-
+32,Kacper Pasiek,Left-Back,08/10/2005 (19),Poland,Preston North End Reserves,-,left,01/07/2024,Preston North End U19,-
+29,Kaine Kesler-Hayden,Right-Back,23/10/2002 (22),England,Coventry City,"1,75m",right,07/08/2024,Aston Villa,€2.50m
+44,Brad Potts,Right-Back,03/07/1994 (30),England,Preston North End,"1,88m",right,03/01/2019,Barnsley FC,€1.00m
+36,Josh Seary,Right-Back,10/09/2004 (20),Ireland England,Preston North End,"1,80m",right,01/07/2023,Preston North End U19,€100k
+-,Noah Mawene,Defensive Midfield,01/02/2005 (20),England France,Preston North End,"1,86m",right,01/07/2023,Preston North End U19,€200k
+-,Theo Mawene,Midfielder,12/07/2007 (17),England,Brentford FC B,-,,,,-
+4,Ben Whiteman,Central Midfield,17/06/1996 (29),England,Preston North End,"1,85m",right,14/01/2021,Doncaster Rovers,€2.50m
+8,Ali McCann,Central Midfield,04/12/1999 (25),Northern Ireland Scotland,Preston North End,"1,76m",right,31/08/2021,St. Johnstone FC,€2.20m
+22,Stefán Teitur Thórdarson,Central Midfield,16/10/1998 (26),Iceland,Preston North End,"1,89m",right,09/07/2024,Silkeborg IF,€1.80m
+18,Ryan Ledson,Central Midfield,19/08/1997 (27),England,Huddersfield Town,"1,78m",right,01/07/2018,Oxford United,€1.20m
+30,Kian Taylor,Central Midfield,15/02/2005 (20),England,Greenock Morton FC,"1,73m",,01/07/2023,Preston North End U19,€100k
+-,Kaedyn Kamara,Central Midfield,29/11/2005 (19),England,Cork City FC,-,,01/07/2025,Preston North End U19,-
+-,Duane Holmes,Right Midfield,06/11/1994 (30),United States England,Houston Dynamo FC,"1,73m",right,12/07/2023,Huddersfield Town,€1.00m
+11,Robbie Brady,Left Midfield,14/01/1992 (33),Ireland,Preston North End,"1,76m",left,04/07/2022,AFC Bournemouth,€250k
+10,Mads Frøkjaer-Jensen,Attacking Midfield,29/07/1999 (25),Denmark,Preston North End,"1,86m",right,11/07/2023,Odense Boldklub,€3.50m
+-,Kitt Nelson,Attacking Midfield,12/01/2005 (20),England,Cork City FC,"1,71m",right,01/07/2023,Preston North End U19,€125k
+-,Theo Carroll,Attacking Midfield,21/06/2007 (18),England,Preston North End U19,-,,,,-
+20,Sam Greenwood,Left Winger,26/01/2002 (23),England,Pogon Szczecin,"1,80m",right,05/07/2024,Leeds United,€4.50m
+-,Jeppe Okkels,Left Winger,27/07/1999 (25),Denmark,Djurgårdens IF,"1,83m",right,13/08/2024,FC Utrecht,€2.30m
+-,Josh Bowler,Right Winger,05/03/1999 (26),England,Blackpool FC,"1,84m",left,30/08/2024,Nottingham Forest,€1.00m
+9,Emil Riis,Centre-Forward,24/06/1998 (27),Denmark,Bristol City,"1,90m",right,01/10/2020,Randers FC,€4.50m
+28,Milutin Osmajic,Centre-Forward,25/07/1999 (25),Montenegro,Preston North End,"1,86m",right,01/09/2023,Cádiz CF,€2.50m
+7,Will Keane,Centre-Forward,11/01/1993 (32),Ireland England,Preston North End,"1,88m",right,14/07/2023,Wigan Athletic,€600k
+-,Layton Stewart,Centre-Forward,03/09/2002 (22),England,FC Thun,"1,80m",,22/07/2023,Liverpool FC U21,€500k
+-,Felipinho,Centre-Forward,04/10/2006 (18),Argentina Brazil,Preston North End U19,"1,77m",right,,,€175k
+12,Ched Evans,Centre-Forward,28/12/1988 (36),Wales,Fleetwood Town,"1,83m",right,06/02/2021,Fleetwood Town,€75k

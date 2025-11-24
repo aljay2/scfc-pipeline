@@ -1,0 +1,48 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+13,Nicolas Schmid,Goalkeeper,22/02/1997 (28),Austria,Portsmouth FC,"1,95m",both,21/08/2024,FC Blau-Weiss Linz,€1.00m
+-,Will Norris,Goalkeeper,12/08/1993 (31),England,Wycombe Wanderers,"1,95m",left,01/07/2023,Burnley FC,€350k
+36,Ben Killip,Goalkeeper,24/11/1995 (29),England,Portsmouth FC,"1,88m",right,03/02/2025,Barnsley FC,€200k
+31,Jordan Archer,Goalkeeper,12/04/1993 (32),Scotland England,Portsmouth FC,"1,90m",right,01/07/2024,Queens Park Rangers,€150k
+33,Toby Steward,Goalkeeper,12/02/2005 (20),England,St. Johnstone FC,"1,93m",right,01/07/2023,Portsmouth FC U18,€100k
+44,Hayden Matthews,Centre-Back,19/06/2004 (21),Australia,Portsmouth FC,"1,95m",right,27/01/2025,Sydney FC,€1.30m
+-,Rob Atkinson,Centre-Back,13/07/1998 (26),England,Bristol City,"1,93m",left,03/01/2025,Bristol City,€1.20m
+5,Regan Poole,Centre-Back,18/06/1998 (27),Wales,Portsmouth FC,"1,80m",right,10/07/2023,Lincoln City,€800k
+6,Conor Shaughnessy,Centre-Back,30/06/1996 (29),Ireland,Portsmouth FC,"1,91m",right,01/07/2023,Burton Albion,€800k
+-,Tom McIntyre,Centre-Back,06/11/1998 (26),Scotland England,Bradford City,"1,85m",left,30/01/2024,Reading FC,€600k
+34,Ibane Bowat,Centre-Back,15/09/2002 (22),Scotland France,Portsmouth FC,"1,90m",left,30/08/2024,Fulham FC U21,€600k
+4,Ryley Towler,Centre-Back,06/05/2002 (23),England,Lincoln City,"1,87m",left,06/01/2023,Bristol City,€500k
+37,Alexander Milosevic,Centre-Back,30/01/1992 (33),Sweden Serbia,Without Club,"1,93m",right,07/03/2025,Without Club,€200k
+19,Jacob Farrell,Left-Back,19/11/2002 (22),Australia,Portsmouth FC,"1,80m",left,26/07/2024,Central Coast Mariners,€500k
+3,Connor Ogilvie,Left-Back,14/02/1996 (29),England,Portsmouth FC,"1,84m",left,02/08/2021,Gillingham FC,€400k
+18,Cohen Bramall,Left-Back,02/04/1996 (29),England,Luton Town,"1,78m",left,31/01/2025,Rotherham United,€400k
+24,Terry Devlin,Right-Back,06/11/2003 (21),Northern Ireland,Portsmouth FC,"1,80m",right,01/07/2023,Glentoran FC,€1.00m
+22,Zak Swanson,Right-Back,28/09/2000 (24),England United States,Portsmouth FC,"1,89m",right,04/07/2022,Arsenal FC U21,€800k
+2,Jordan Williams,Right-Back,22/10/1999 (25),England,Portsmouth FC,"1,79m",right,01/07/2024,Barnsley FC,€600k
+-,Michael Ani,Right-Back,(-),England,Portsmouth FC U18,-,,,,-
+-,Freddie Potts,Defensive Midfield,12/09/2003 (21),England,West Ham United,"1,83m",right,26/08/2024,West Ham United U21,€1.40m
+-,Isaac Hayden,Defensive Midfield,22/03/1995 (30),Jamaica England,Queens Park Rangers,"1,87m",right,10/01/2025,Newcastle United,€700k
+25,Abdoulaye Kamara,Defensive Midfield,06/11/2004 (20),France Guinea,1.FC Saarbrücken,"1,85m",right,20/08/2024,Borussia Dortmund II,€700k
+21,Andre Dozzell,Central Midfield,02/05/1999 (26),England,Portsmouth FC,"1,78m",left,05/08/2024,Queens Park Rangers,€1.20m
+-,Owen Moxon,Central Midfield,17/01/1998 (27),England,Stockport County,"1,86m",right,01/02/2024,Carlisle United,€450k
+7,Marlon Pack,Central Midfield,25/03/1991 (34),England,Portsmouth FC,"1,88m",right,01/07/2022,Cardiff City,€200k
+-,Ben Stevenson,Central Midfield,23/03/1997 (28),England,Cheltenham Town,"1,82m",right,01/07/2023,Forest Green Rovers ,€175k
+-,Tom Lowery,Central Midfield,31/12/1997 (27),England Wales,Kilmarnock FC,"1,68m",,05/08/2022,Crewe Alexandra,€175k
+-,Reuben Swann,Central Midfield,26/01/2006 (19),England,Portsmouth FC,-,right,01/07/2024,AFC Sudbury,-
+30,Matt Ritchie,Right Midfield,10/09/1989 (35),Scotland England,Reading FC,"1,73m",left,06/08/2024,Newcastle United,€300k
+-,Adil Aouchiche,Attacking Midfield,15/07/2002 (22),France Algeria,Aberdeen FC,"1,81m",right,31/01/2025,Sunderland AFC,€1.50m
+-,Harry Clout,Attacking Midfield,30/08/2006 (18),England,Welling United,-,,01/07/2025,Portsmouth FC U18,-
+23,Josh Murphy,Left Winger,24/02/1995 (30),England Ireland,Portsmouth FC,"1,73m",right,01/07/2024,Oxford United,€1.00m
+-,Sam Silvera,Left Winger,25/10/2000 (24),Australia England,Middlesbrough FC,"1,79m",right,01/07/2024,Middlesbrough FC,€800k
+-,Elias Sørensen,Left Winger,18/09/1999 (25),Denmark,Vålerenga Fotball Elite,"1,89m",right,02/08/2024,Esbjerg fB,€700k
+-,Anthony Scully,Left Winger,19/04/1999 (26),Ireland England,Shrewsbury Town,"1,73m",right,01/07/2023,Wigan Athletic,€175k
+49,Callum Lang,Right Winger,08/09/1998 (26),England,Portsmouth FC,"1,83m",right,29/01/2024,Wigan Athletic,€2.80m
+-,Kaide Gordon,Right Winger,05/10/2004 (20),England Jamaica,Liverpool FC U21,"1,73m",left,03/02/2025,Liverpool FC U21,€1.00m
+32,Paddy Lane,Right Winger,18/02/2001 (24),Northern Ireland England,Reading FC,"1,77m",left,31/01/2023,Fleetwood Town,€700k
+-,Gavin Whyte,Right Winger,31/01/1996 (29),Northern Ireland,Derry City,"1,70m",right,01/07/2023,Cardiff City,€350k
+29,Harvey Blair,Right Winger,14/09/2003 (21),England Jamaica,Portsmouth FC,-,right,23/08/2024,Liverpool FC U21,€300k
+9,Colby Bishop,Centre-Forward,04/11/1996 (28),England,Portsmouth FC,"1,80m",right,21/07/2022,Accrington Stanley,€1.50m
+-,Mark O'Mahony,Centre-Forward,14/01/2005 (20),Ireland,Reading FC,"1,82m",right,28/08/2024,Brighton & Hove Albion U21,€500k
+10,Kusini Yengi,Centre-Forward,15/01/1999 (26),Australia England,Aberdeen FC,"1,90m",right,02/07/2023,Western Sydney Wanderers,€500k
+15,Christian Saydee,Centre-Forward,10/05/2002 (23),England Liberia,Wigan Athletic,"1,84m",right,01/07/2023,AFC Bournemouth,€400k
+20,Thomas Waddingham,Centre-Forward,05/04/2005 (20),Australia England,Portsmouth FC,"1,85m",left,22/01/2025,Brisbane Roar,€400k
+-,Olutayo Singerr,Centre-Forward,22/09/2007 (17),England,Moneyfields FC,-,,,,-

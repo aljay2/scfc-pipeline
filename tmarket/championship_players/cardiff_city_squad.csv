@@ -1,0 +1,51 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+1,Ethan Horvath,Goalkeeper,09/06/1995 (30),United States,Sheffield Wednesday,"1,95m",right,01/02/2024,Nottingham Forest,€1.20m
+21,Jak Alnwick,Goalkeeper,17/06/1993 (32),England,Cardiff City,"1,87m",left,01/07/2022,St. Mirren FC,€300k
+41,Matthew Turner,Goalkeeper,27/03/2002 (23),Wales,Cardiff City,"1,94m",right,01/07/2024,Cardiff City U21,€50k
+-,Mark McGuinness,Centre-Back,05/01/2001 (24),Ireland England,Sheffield United,"1,94m",right,01/07/2021,Arsenal FC U23,€7.00m
+5,Jesper Daland,Centre-Back,06/01/2000 (25),Norway,Fortuna Düsseldorf,"1,91m",right,20/08/2024,Cercle Brugge ,€3.50m
+12,Calum Chambers,Centre-Back,20/01/1995 (30),England,Cardiff City,"1,82m",right,14/07/2024,Aston Villa,€1.80m
+4,Dimitrios Goutas,Centre-Back,04/04/1994 (31),Greece,Genclerbirligi Ankara,"1,89m",right,05/07/2023,Sivasspor,€1.20m
+2,Will Fish,Centre-Back,17/02/2003 (22),England,Cardiff City,"1,85m",right,23/08/2024,Manchester United U21,€600k
+-,Dylan Lawlor,Centre-Back,01/01/2006 (19),Wales Ireland,Cardiff City,"1,88m",right,01/07/2025,Cardiff City U21,€100k
+-,Malachi Fagan-Walcott,Centre-Back,11/03/2002 (23),England Barbados,York City,"1,86m",right,01/07/2024,Cardiff City U21,-
+17,Jamilu Collins,Left-Back,05/08/1994 (30),Nigeria,FC Erzgebirge Aue,"1,83m",left,01/07/2022,SC Paderborn 07,€500k
+23,Joel Bagan,Left-Back,03/09/2001 (23),Ireland England,Cardiff City,"1,88m",left,04/08/2020,Cardiff City U18,€500k
+-,Tom Davies,Left-Back,11/11/2003 (21),Wales,Newport County,"1,80m",left,,,€50k
+-,Raheem Conte,Left-Back,16/12/2002 (22),England Portugal,Morecambe FC,"1,78m",left,,,-
+-,Luey Giles,Left-Back,04/08/2006 (18),Wales,Cardiff City U21,-,,,,-
+38,Perry Ng,Right-Back,24/06/1996 (29),England Singapore,Cardiff City,"1,80m",right,19/01/2021,Crewe Alexandra,€3.00m
+-,Ronan Kpakio,Right-Back,25/05/2007 (18),Wales Zimbabwe,Cardiff City,"1,78m",right,01/07/2025,Cardiff City U21,€100k
+15,Sivert Mannsverk,Defensive Midfield,08/05/2002 (23),Norway,AC Sparta Prague,"1,85m",right,28/01/2025,Ajax Amsterdam,€4.00m
+-,Ryan Wintle,Defensive Midfield,13/06/1997 (28),England,Cardiff City,"1,80m",right,01/07/2021,Crewe Alexandra,€3.00m
+-,Manolis Siopis,Defensive Midfield,14/05/1994 (31),Greece,Panathinaikos FC,"1,68m",right,18/08/2023,Trabzonspor,€1.80m
+-,Eli King,Defensive Midfield,23/12/2002 (22),Wales,Cardiff City,"1,88m",,01/07/2023,Cardiff City U21,€250k
+14,David Turnbull,Central Midfield,10/07/1999 (25),Scotland,Cardiff City,"1,85m",right,01/02/2024,Celtic FC,€2.50m
+18,Alex Robertson,Central Midfield,17/04/2003 (22),Australia Peru,Cardiff City,"1,82m",right,07/08/2024,Manchester City U21,€1.50m
+8,Joe Ralls,Central Midfield,12/10/1993 (31),England,Plymouth Argyle,"1,78m",left,01/07/2011,Cardiff City U18,€800k
+35,Andy Rinomhota,Central Midfield,21/04/1997 (28),Zimbabwe England,Reading FC,"1,75m",right,01/07/2022,Reading FC,€800k
+10,Aaron Ramsey,Central Midfield,26/12/1990 (34),Wales,Without Club,"1,78m",right,15/07/2023,OGC Nice,€600k
+-,Troy Perrett,Central Midfield,28/10/2006 (18),Wales,Cardiff City U21,"1,79m",both,,,-
+-,Cody Twose,Central Midfield,27/06/2006 (19),Wales,Cardiff City U21,"1,73m",right,,,-
+-,Dakarai Mafico,Central Midfield,07/12/2006 (18),Wales,Cardiff City,-,,01/07/2025,Cardiff City U21,-
+-,Adeteye Gbadehan,Central Midfield,13/11/2003 (21),England United States,Without Club,"1,9m",,,,-
+11,Callum O'Dowda,Left Midfield,23/04/1995 (30),Ireland England,Ferencvárosi TC,"1,80m",left,01/07/2022,Bristol City,€1.20m
+27,Rubin Colwill,Attacking Midfield,27/04/2002 (23),Wales,Cardiff City,"1,89m",right,01/01/2021,Cardiff City U18,€1.40m
+45,Cian Ashford,Attacking Midfield,24/09/2004 (20),Wales,Cardiff City,"1,79m",both,01/07/2024,Cardiff City U21,€1.20m
+-,Will Alves,Attacking Midfield,04/05/2005 (20),England Portugal,Huddersfield Town,-,right,03/02/2025,Leicester City U21,€400k
+-,Kieron Evans,Attacking Midfield,19/12/2001 (23),Wales,Eastleigh FC,"1,70m",both,01/07/2021,Cardiff City U23,€175k
+16,Chris Willock,Left Winger,31/01/1998 (27),England Montserrat,Cardiff City,"1,78m",right,12/07/2024,Queens Park Rangers,€1.60m
+-,Tanatswa Nyakuhwa,Left Winger,17/09/2005 (19),Wales Zimbabwe,Cardiff City,-,right,01/07/2025,Cardiff City U21,€100k
+32,Ollie Tanner,Right Winger,13/05/2002 (23),England,Cardiff City,"1,77m",left,01/07/2022,Lewes FC,€1.30m
+20,Anwar El Ghazi,Right Winger,03/05/1995 (30),Netherlands Morocco,Al-Sailiya SC,"1,89m",right,01/08/2024,1.FSV Mainz 05,€1.20m
+-,Isaac Jefferies,Right Winger,06/05/2005 (20),Wales,The New Saints,-,,,,-
+22,Yousef Salech,Centre-Forward,17/01/2002 (23),Denmark Palestine,Cardiff City,"1,95m",right,17/01/2025,IK Sirius,€3.50m
+-,Wilfried Kanga,Centre-Forward,21/02/1998 (27),Cote d'Ivoire France,KAA Gent,"1,89m",right,30/07/2024,Hertha BSC,€2.50m
+31,Roko Simic,Centre-Forward,10/09/2003 (21),Croatia,Karlsruher SC,"1,90m",right,30/08/2024,Red Bull Salzburg,€2.00m
+47,Callum Robinson,Centre-Forward,02/02/1995 (30),Ireland England,Cardiff City,"1,78m",right,01/09/2022,West Bromwich Albion,€1.60m
+22,Yakou Méïté,Centre-Forward,11/02/1996 (29),Cote d'Ivoire France,Damac FC,"1,85m",left,07/07/2023,Reading FC,€1.20m
+39,Isaak Davies,Centre-Forward,25/09/2001 (23),Wales,Cardiff City,"1,75m",right,01/07/2021,Cardiff City U23,€1.20m
+-,Kion Etete,Centre-Forward,28/11/2001 (23),England Nigeria,Rotherham United,"1,94m",,04/08/2022,Tottenham Hotspur U21,€1.00m
+-,Michael Reindorf,Centre-Forward,10/05/2005 (20),England Ghana,Newport County,"1,80m",right,,,€100k
+-,Luke Pearce,Centre-Forward,08/06/2004 (21),Ireland England,Cardiff City U21,"1,80m",,,,€75k
+-,Morgan Wigley,Centre-Forward,10/09/2004 (20),Wales,Barry Town United,-,both,,,-

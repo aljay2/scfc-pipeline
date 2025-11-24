@@ -1,0 +1,50 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+-,Carl Rushworth,Goalkeeper,02/07/2001 (23),England,Coventry City,"1,91m",,30/08/2024,Brighton & Hove Albion,€3.00m
+1,Ivor Pandur,Goalkeeper,25/03/2000 (25),Croatia,Hull City,"1,87m",right,20/01/2024,Fortuna Sittard,€2.00m
+-,Anthony Racioppi,Goalkeeper,31/12/1998 (26),Switzerland,FC Sion,"1,89m",right,08/08/2024,BSC Young Boys,€1.00m
+32,Thimothée Lo-Tutala,Goalkeeper,13/02/2003 (22),France England,Doncaster Rovers,"1,91m",right,09/08/2022,Tottenham Hotspur U21,€350k
+34,Harvey Cartwright,Goalkeeper,09/05/2002 (23),England,Hartlepool United,"1,92m",right,01/07/2021,Hull City U23,€200k
+5,Alfie Jones,Centre-Back,07/10/1997 (27),Canada England,Middlesbrough FC,"1,91m",right,04/09/2020,Southampton FC U23,€4.00m
+4,Charlie Hughes,Centre-Back,16/10/2003 (21),England,Hull City,"1,85m",right,16/08/2024,Wigan Athletic,€3.50m
+6,Sean McLoughlin,Centre-Back,13/11/1996 (28),Ireland,Blackburn Rovers,"1,91m",left,26/07/2019,Cork City FC,€1.50m
+15,John Egan,Centre-Back,20/10/1992 (32),Ireland,Hull City,"1,85m",right,03/02/2025,Burnley FC,€1.30m
+17,Finley Burns,Centre-Back,17/06/2003 (22),England,Reading FC,"1,96m",right,09/08/2024,Manchester City U21,€900k
+-,Andy Smith,Centre-Back,11/09/2001 (23),England,Gillingham FC,"1,86m",right,01/07/2022,Hull City U21,€150k
+-,Stanley Ashbee,Centre-Back,28/11/2006 (18),Ireland England,Hull City U21,"1,87m",left,,,-
+-,Ryan Giles,Left-Back,26/01/2000 (25),England,Hull City,"1,83m",left,01/07/2024,Luton Town,€4.50m
+-,James Furlong,Left-Back,07/06/2002 (23),Ireland,Hull City,"1,78m",left,01/09/2023,Brighton & Hove Albion U21,€300k
+-,Brandon Fleming,Left-Back,03/12/1999 (25),England,Derry City,"1,74m",left,01/07/2019,Hull City U23,€225k
+29,Matty Jacob,Left-Back,03/06/2001 (24),England,Reading FC,"1,80m",left,01/07/2022,Hull City U21,€150k
+-,Zane Myers,Left-Back,11/08/2005 (19),England Jamaica,Scarborough Athletic,-,,,,-
+23,Cody Drameh,Right-Back,08/12/2001 (23),England The Gambia,Hull City,"1,81m",right,23/07/2024,Leeds United,€3.00m
+2,Lewie Coyle,Right-Back,15/10/1995 (29),England,Hull City,"1,73m",right,07/08/2020,Fleetwood Town,€1.50m
+25,Óscar Zambrano,Defensive Midfield,20/04/2004 (21),Ecuador,NK Maribor,"1,76m",,16/08/2024,LDU Quito,€2.50m
+-,Xavier Simons,Defensive Midfield,20/02/2003 (22),England,Bolton Wanderers,"1,80m",right,01/07/2023,Chelsea FC U21,€700k
+-,Jean Michaël Seri,Defensive Midfield,19/07/1991 (33),Cote d'Ivoire,NK Maribor,"1,68m",right,08/07/2022,Fulham FC,€500k
+-,Rocco Coyle,Midfielder,20/08/2006 (18),England,Scarborough Athletic,-,,,,-
+-,Nathan Tinsdale,Midfielder,20/12/2004 (20),England,Hull City U21,-,,,,-
+19,Steven Alzate,Central Midfield,08/09/1998 (26),Colombia England,Atlanta United FC,"1,80m",right,09/09/2024,Without Club,€3.50m
+20,Gustavo Puerta,Central Midfield,23/07/2003 (21),Colombia,Racing Santander,"1,73m",right,27/08/2024,Bayer 04 Leverkusen,€3.50m
+27,Regan Slater,Central Midfield,11/09/1999 (25),England,Hull City,"1,71m",right,27/01/2022,Sheffield United U23,€3.50m
+36,Eliot Matazo,Central Midfield,15/02/2002 (23),Belgium DR Congo,Hull City,"1,70m",right,24/01/2025,AS Monaco,€2.00m
+24,Matt Crooks,Central Midfield,20/01/1994 (31),England,Hull City,"1,91m",right,10/01/2025,Real Salt Lake City,€800k
+-,Abdülkadir Ömür,Attacking Midfield,25/06/1999 (26),Türkiye,Antalyaspor,"1,68m",left,01/02/2024,Trabzonspor,€3.60m
+16,Lincoln,Attacking Midfield,07/11/1998 (26),Brazil,FC Alverca,"1,78m",left,23/01/2025,Fenerbahce,€3.50m
+-,Marvin Mehlem,Attacking Midfield,11/09/1997 (27),Germany,Arminia Bielefeld,"1,74m",right,01/08/2024,SV Darmstadt 98,€2.00m
+45,Kasey Palmer,Attacking Midfield,09/11/1996 (28),Jamaica England,Hull City,"1,82m",right,30/08/2024,Coventry City,€1.00m
+14,Harry Vaughan,Attacking Midfield,06/04/2004 (21),Ireland England,Hull City,"1,70m",right,31/01/2023,Oldham Athletic,€400k
+7,Liam Millar,Left Winger,27/09/1999 (25),Canada England,Hull City,"1,81m",right,09/08/2024,FC Basel 1893,€3.00m
+22,Louie Barry,Left Winger,21/06/2003 (22),England Ireland,Sheffield United,"1,74m",right,29/01/2025,Aston Villa U21,€2.00m
+11,Doğukan Sinik,Left Winger,21/01/1999 (26),Türkiye,Antalyaspor,"1,80m",right,20/07/2022,Antalyaspor,€1.60m
+-,Will Jarvis,Left Winger,17/12/2002 (22),England,Notts County,"1,85m",left,01/01/2024,Hull City U21,€300k
+33,Mohamed Belloumi,Right Winger,01/06/2002 (23),Algeria,Hull City,"1,77m",left,30/08/2024,SC Farense,€4.50m
+44,Abu Kamara,Right Winger,21/07/2003 (21),England Sierra Leone,Getafe CF,"1,83m",left,30/08/2024,Norwich City,€4.00m
+-,Ryan Longman,Right Winger,06/11/2000 (24),England,Wrexham AFC,"1,80m",right,31/01/2022,Brighton & Hove Albion U23,€2.00m
+-,Nordin Amrabat,Right Winger,31/03/1987 (38),Morocco Netherlands,Wydad Casablanca,"1,78m",right,17/01/2025,AEK Athens,€150k
+-,Óscar Estupiñán,Centre-Forward,29/12/1996 (28),Colombia,FC Juárez,"1,82m",left,13/07/2022,Vitória Guimarães SC,€4.00m
+30,Joe Gelhardt,Centre-Forward,04/05/2002 (23),England,Hull City,"1,79m",left,09/08/2025,Leeds United,€3.00m
+-,Chris Bedia,Centre-Forward,05/03/1996 (29),Cote d'Ivoire France,BSC Young Boys,"1,90m",left,22/08/2024,1.FC Union Berlin,€2.50m
+12,João Pedro,Centre-Forward,09/03/1992 (33),Italy Brazil,Atlético de San Luis,"1,84m",right,26/09/2024,Without Club,€1.80m
+48,Mason Burstow,Centre-Forward,04/08/2003 (21),England Jamaica,Bolton Wanderers,"1,87m",right,16/08/2024,Chelsea FC U21,€1.60m
+28,Kyle Joseph,Centre-Forward,10/09/2001 (23),Scotland England,Hull City,"1,86m",right,20/01/2025,Blackpool FC,€600k
+-,Tyrell Sellars-Fleming,Centre-Forward,31/05/2005 (20),England Jamaica,Scunthorpe United,"1,73m",right,,,-

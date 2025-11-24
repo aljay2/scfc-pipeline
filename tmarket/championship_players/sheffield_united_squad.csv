@@ -1,0 +1,44 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+1,Michael Cooper,Goalkeeper,08/10/1999 (25),England,Sheffield United,"1,86m",right,15/08/2024,Plymouth Argyle,€9.00m
+-,Ivo Grbic,Goalkeeper,18/01/1996 (29),Croatia,Fatih Karagümrük,"1,95m",right,26/01/2024,Atlético de Madrid,€1.80m
+17,Adam Davies,Goalkeeper,17/07/1992 (32),Wales Germany,Sheffield United,"1,85m",right,25/01/2022,Stoke City,€350k
+-,Luke Faxon,Goalkeeper,15/02/2005 (20),England,Sheffield United,-,,01/07/2025,Sheffield United U21,-
+15,Anel Ahmedhodzic,Centre-Back,26/03/1999 (26),Bosnia-Herzegovina Sweden,Feyenoord Rotterdam,"1,90m",right,06/07/2022,Malmö FF,€18.00m
+-,Harry Souttar,Centre-Back,22/10/1998 (26),Australia Scotland,Leicester City,"1,98m",right,06/08/2024,Leicester City,€6.00m
+-,Auston Trusty,Centre-Back,12/08/1998 (26),United States,Celtic FC,"1,90m",left,03/08/2023,Arsenal FC,€6.00m
+5,Rob Holding,Centre-Back,20/09/1995 (29),England,Colorado Rapids,"1,89m",right,03/02/2025,Crystal Palace,€3.50m
+19,Jack Robinson,Centre-Back,01/09/1993 (31),England,Birmingham City,"1,80m",left,21/01/2020,Nottingham Forest,€700k
+-,Jamal Baptiste,Centre-Back,11/11/2003 (21),England,Rotherham United,"1,90m",,,,€200k
+14,Harrison Burrows,Left-Back,12/01/2002 (23),England,Sheffield United,"1,80m",left,27/07/2024,Peterborough United,€12.00m
+33,Rhys Norrington-Davies,Left-Back,22/04/1999 (26),Wales Saudi Arabia,Queens Park Rangers,"1,81m",left,01/07/2019,Sheffield United U23,€2.20m
+3,Sam McCallum,Left-Back,02/09/2000 (24),England,Sheffield United,"1,77m",left,11/07/2024,Norwich City,€1.40m
+-,Harry Boyes,Left-Back,02/11/2001 (23),England,Southend United,"1,80m",left,,,€200k
+2,Alfie Gilchrist,Right-Back,28/11/2003 (21),England,West Bromwich Albion,"1,83m",right,07/08/2024,Chelsea FC,€8.00m
+18,Harry Clarke,Right-Back,02/03/2001 (24),England,Ipswich Town,"1,80m",right,29/01/2025,Ipswich Town,€4.50m
+38,Femi Seriki,Right-Back,28/04/2002 (23),England Nigeria,Sheffield United,"1,83m",right,01/07/2023,Sheffield United U21,€3.50m
+16,Jamie Shackleton,Right-Back,08/10/1999 (25),England,Sheffield United,"1,68m",right,04/07/2024,Leeds United,€1.50m
+-,Sai Sachdev,Right-Back,09/03/2005 (20),England India,Sheffield United U21,-,,,,€150k
+-,Sam Colechin,Right-Back,08/09/2007 (17),England,Sheffield United U18,-,,,,-
+21,Vini Souza,Defensive Midfield,17/06/1999 (26),Brazil,VfL Wolfsburg,"1,87m",right,09/08/2023,Lommel SK,€15.00m
+-,Hamza Choudhury,Defensive Midfield,01/10/1997 (27),Bangladesh England,Leicester City,"1,78m",right,27/01/2025,Leicester City,€4.50m
+-,Sam Aston,Midfielder,06/05/2006 (19),England,Sheffield United U21,-,,,,-
+8,Gustavo Hamer,Central Midfield,24/06/1997 (28),Netherlands Brazil,Sheffield United,"1,69m",right,12/08/2023,Coventry City,€16.00m
+42,Sydie Peck,Central Midfield,13/09/2004 (20),England,Sheffield United,"1,73m",right,01/07/2024,Sheffield United U21,€7.50m
+22,Tom Davies,Central Midfield,30/06/1998 (27),England,Sheffield United,"1,80m",right,16/08/2023,Everton FC,€4.00m
+-,Anis Slimane,Central Midfield,16/03/2001 (24),Tunisia Denmark,Norwich City,"1,88m",both,13/07/2023,Bröndby IF,€3.00m
+35,Andre Brooks,Central Midfield,20/08/2003 (21),England Jamaica,Sheffield United,"1,80m",left,01/07/2023,Sheffield United U21,€3.00m
+-,Ismaila Coulibaly,Central Midfield,25/12/2000 (24),Mali,LASK,"1,83m",right,08/09/2020,Sarpsborg 08 FF,€1.50m
+4,Oliver Arblaster,Central Midfield,08/01/2004 (21),England,Sheffield United,"1,80m",right,01/07/2023,Sheffield United U21,€1.40m
+-,Billy Blacker,Central Midfield,17/09/2005 (19),England,Tranmere Rovers,-,both,,,€100k
+-,Owen Hampson,Central Midfield,17/11/2004 (20),Wales England,Sheffield United U21,-,,,,€50k
+10,Callum O'Hare,Attacking Midfield,01/05/1998 (27),England Ireland,Sheffield United,"1,73m",right,15/07/2024,Coventry City,€3.20m
+29,Jefferson Cáceres,Left Winger,22/08/2002 (22),Peru,Dunfermline Athletic FC,"1,73m",right,03/02/2025,FBC Melgar,€1.00m
+-,Christian Nwachukwu,Left Winger,27/12/2005 (19),Nigeria,Sheffield United,"1,69m",right,03/02/2025,Botev Plovdiv,€800k
+11,Jesurun Rak-Sakyi,Right Winger,05/10/2002 (22),England Ghana,Caykur Rizespor,"1,78m",left,16/08/2024,Crystal Palace,€6.00m
+-,Louie Marsh,Second Striker,02/07/2004 (20),England,Sheffield United,"1,76m",right,01/07/2024,Sheffield United U21,€150k
+28,Tom Cannon,Centre-Forward,28/12/2002 (22),Ireland England,Sheffield United,"1,80m",right,23/01/2025,Leicester City,€10.00m
+23,Tyrese Campbell,Centre-Forward,28/12/1999 (25),England Jamaica,Sheffield United,"1,85m",left,11/08/2024,Stoke City,€8.00m
+20,Ben Brereton Díaz,Centre-Forward,18/04/1999 (26),Chile England,Derby County,"1,85m",right,20/01/2025,Southampton FC,€7.50m
+7,Rhian Brewster,Centre-Forward,01/04/2000 (25),England Barbados,Derby County,"1,80m",right,02/10/2020,Liverpool FC U23,€3.50m
+9,Kieffer Moore,Centre-Forward,08/08/1992 (32),Wales England,Wrexham AFC,"1,96m",right,15/07/2024,AFC Bournemouth,€1.00m
+39,Ryan Oné,Centre-Forward,26/06/2006 (19),Scotland France,Sheffield United,"1,88m",left,01/07/2024,Sheffield United U21,€500k

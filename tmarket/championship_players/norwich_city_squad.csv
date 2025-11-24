@@ -1,0 +1,48 @@
+﻿#,Player,Position,Date of birth/Age,Nat.,Current club,Height,Foot,Joined,Signed from,Market value
+-,Angus Gunn,Goalkeeper,22/01/1996 (29),Scotland England,Nottingham Forest,"1,96m",right,01/07/2021,Southampton FC,€2.20m
+39,Vicente Reyes,Goalkeeper,19/11/2003 (21),Chile Spain,Peterborough United,"1,96m",right,01/07/2024,Norwich City U21,€350k
+-,George Long,Goalkeeper,05/11/1993 (31),England,Southampton FC,"1,93m",,17/08/2023,Millwall FC,€300k
+-,Daniel Barden,Goalkeeper,02/01/2001 (24),Wales,Dagenham & Redbridge FC,"1,95m",right,01/07/2020,Norwich City U23,€100k
+-,Archie Mair,Goalkeeper,10/02/2001 (24),Scotland,Morecambe FC,"1,98m",left,01/07/2024,Norwich City U21,€50k
+-,Callum Doyle,Centre-Back,03/10/2003 (21),England,Wrexham AFC,"1,90m",left,06/08/2024,Manchester City U21,€15.00m
+-,José Córdoba,Centre-Back,03/06/2001 (24),Panama,Norwich City,"1,85m",left,01/07/2024,Levski Sofia,€4.80m
+15,Ruairi McConville,Centre-Back,01/05/2005 (20),Northern Ireland,Norwich City,"1,93m",right,03/02/2025,Brighton & Hove Albion U21,€1.80m
+-,Shane Duffy,Centre-Back,01/01/1992 (33),Ireland Northern Ireland,Norwich City,"1,93m",right,01/07/2023,Fulham FC,€600k
+-,Grant Hanley,Centre-Back,20/11/1991 (33),Scotland,Hibernian FC,"1,88m",right,30/08/2017,Newcastle United,€600k
+-,Brad Hills,Centre-Back,10/03/2004 (21),England,Stockport County,"1,88m",right,01/07/2024,Norwich City U21,€500k
+-,Jonathan Tomkinson,Centre-Back,11/04/2002 (23),United States England,Cheltenham Town,"1,90m",right,,,€125k
+-,Jaden Warner,Centre-Back,28/10/2002 (22),England,Newport County,"1,94m",right,01/07/2024,Norwich City U21,€50k
+-,Ben Chrisene,Left-Back,12/01/2004 (21),England,Norwich City,"1,83m",left,30/07/2024,Aston Villa U21,€1.50m
+47,Lucien Mahovo,Left-Back,07/06/2005 (20),England Zimbabwe,Norwich City,-,left,01/01/2025,Norwich City U21,€200k
+-,Jack Stacey,Right-Back,06/04/1996 (29),England,Norwich City,"1,80m",right,01/07/2023,AFC Bournemouth,€2.80m
+-,Kellen Fisher,Right-Back,05/05/2004 (21),England,Norwich City,"1,82m",right,01/07/2023,Bromley FC,€1.50m
+-,Jacob Lungi Sørensen,Defensive Midfield,03/03/1998 (27),Denmark,SK Brann,"1,84m",right,27/07/2020,Esbjerg fB,€1.00m
+16,Jacob Wright,Defensive Midfield,21/09/2005 (19),England,Norwich City,"1,78m",right,01/07/2025,Manchester City U21,€800k
+-,Uriah Djedje,Defensive Midfield,16/03/2006 (19),England,Norwich City U21,-,,,,-
+-,Gabriel Sara,Central Midfield,26/06/1999 (26),Brazil,Galatasaray,"1,77m",left,15/07/2022,São Paulo Futebol Clube,€22.00m
+-,Marcelino Núñez,Central Midfield,01/03/2000 (25),Chile,Ipswich Town,"1,73m",right,02/08/2022,CD Universidad Católica,€6.00m
+-,Amankwah Forson,Central Midfield,31/12/2002 (22),Ghana,Norwich City,"1,73m",left,09/08/2024,Red Bull Salzburg,€4.50m
+20,Anis Slimane,Central Midfield,16/03/2001 (24),Tunisia Denmark,Norwich City,"1,88m",both,13/01/2025,Sheffield United,€3.00m
+-,Liam Gibbs,Central Midfield,16/12/2002 (22),England,Norwich City,"1,78m",right,01/07/2022,Norwich City U21,€2.00m
+-,Kenny McLean,Central Midfield,08/01/1992 (33),Scotland,Norwich City,"1,80m",left,22/01/2018,Aberdeen FC,€600k
+41,Gabe Forsyth,Central Midfield,04/08/2006 (18),Scotland,Norwich City,"1,84m",left,01/07/2024,Norwich City U21,€200k
+-,AJ Bridge,Central Midfield,21/03/2005 (20),England,Norwich City U21,-,,,,-
+29,Oscar Schwartau,Attacking Midfield,17/05/2006 (19),Denmark,Norwich City,"1,86m",right,24/08/2024,Bröndby IF,€3.00m
+-,Christian Fassnacht,Attacking Midfield,11/11/1993 (31),Switzerland,BSC Young Boys,"1,85m",right,25/07/2023,BSC Young Boys,€2.00m
+11,Emiliano Marcondes,Attacking Midfield,09/03/1995 (30),Denmark Brazil,Norwich City,"1,82m",right,04/10/2024,Without Club,€1.00m
+-,Elliot Myles,Attacking Midfield,20/01/2007 (18),Wales England,Norwich City U21,"1,78m",right,,,€100k
+-,Borja Sainz,Left Winger,21/02/2001 (24),Spain,FC Porto,"1,74m",right,01/07/2023,Giresunspor,€14.00m
+-,Jonathan Rowe,Left Winger,30/04/2003 (22),England Jamaica,Bologna FC 1909,"1,73m",right,01/01/2022,Norwich City U23,€12.00m
+22,Lewis Dobbin,Left Winger,03/01/2003 (22),England,Preston North End,"1,75m",right,03/01/2025,Aston Villa,€2.50m
+-,Onel Hernández,Left Winger,01/02/1993 (32),Cuba Germany,Charlton Athletic,"1,72m",right,25/01/2018,Eintracht Braunschweig,€500k
+10,Matej Jurasek,Right Winger,30/08/2003 (21),Czech Republic,Norwich City,"1,81m",left,16/01/2025,SK Slavia Prague,€7.00m
+-,Abu Kamara,Right Winger,21/07/2003 (21),England Sierra Leone,Getafe CF,"1,83m",left,01/07/2023,Norwich City U21,€4.00m
+-,Kaide Gordon,Right Winger,05/10/2004 (20),England Jamaica,Liverpool FC U21,"1,73m",left,30/08/2024,Liverpool FC U21,€1.00m
+-,Tony Springett,Right Winger,22/09/2002 (22),Ireland England,Norwich City,"1,74m",left,01/07/2023,Norwich City U21,€500k
+-,Josh Sargent,Centre-Forward,20/02/2000 (25),United States,Norwich City,"1,85m",right,09/08/2021,SV Werder Bremen,€16.00m
+17,Ante Crnac,Centre-Forward,17/12/2003 (21),Croatia,Norwich City,"1,90m",left,22/08/2024,Raków Częstochowa,€8.00m
+-,Adam Idah,Centre-Forward,11/02/2001 (24),Ireland Nigeria,Swansea City,"1,90m",right,01/07/2019,Norwich City U23,€6.50m
+-,Ashley Barnes,Centre-Forward,30/10/1989 (35),England,Burnley FC,"1,85m",right,01/07/2023,Burnley FC,€250k
+-,Ken Aboh,Centre-Forward,09/11/2004 (20),England United States,Boston United,"1,75m",right,,,€75k
+-,Errol Mundle-Smith,Centre-Forward,19/03/2006 (19),England,Norwich City U21,"1,87m",,,,-
+-,Dylan Jones,Centre-Forward,03/01/2005 (20),England,Norwich City U21,-,,,,-
