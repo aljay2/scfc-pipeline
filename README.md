@@ -3,8 +3,8 @@
 This project builds a small, end-to-end **data pipeline** to collect player data for the 2024/25 EFL Championship.
 
 ## Overview
-- Scraped **FBref** and **Transfermarkt**
 - Stored raw files in **Google Cloud Storage**
+- Scraped **FBref** and **Transfermarkt**
 - Cleaned and transformed both datasets using Python
 - Loaded cleaned data into **BigQuery**
 - Produced a short **scouting insight report** using SQL + visualisations
