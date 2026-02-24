@@ -6,8 +6,8 @@ This project builds a small, end-to-end **data pipeline** to collect player data
 - Stored raw files in **Google Cloud Storage**
 - Scraped **FBref** and **Transfermarkt**
 - Cleaned and transformed both datasets using Python
-- Loaded cleaned data into **BigQuery**
 - Produced a short **scouting insight report** using SQL + visualisations
+- Loaded cleaned data into **BigQuery**
 
 
 
