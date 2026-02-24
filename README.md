@@ -10,6 +10,7 @@ This project builds a small, end-to-end **data pipeline** to collect player data
 - Scraped **FBref** and **Transfermarkt**
 - Testing to see if i get alert
 - Another test to see if i get alert
+- sdfsdfdsaffdsasfdafsdfsda
 
 
 
