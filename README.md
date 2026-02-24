@@ -26,8 +26,8 @@ The pipeline consists of:
 
 ### 1. Clone the repository and activate a venv
 ```bash
-git clone https://github.com/AlJay1/scfc-pipeline.git
 cd scfc-pipeline
+git clone https://github.com/AlJay1/scfc-pipeline.git
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
